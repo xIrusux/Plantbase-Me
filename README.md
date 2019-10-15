@@ -19,7 +19,7 @@ Help save all the animals, one product at a time.
 ## Project idea
 
 ## Summary
-Crowd sourced review app for plant-based products 
+Crowd sourced review app for plant-based products | a mobile app
 
 ## Detail
 Our app idea lets our users search for a product category they are familiar with from the non-plant-based world. It then shows them a list of ranked plant-based alternatives with honest reviews, sorted by their number of crowdsourced upvotes.
