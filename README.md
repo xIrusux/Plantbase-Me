@@ -2,7 +2,7 @@
 
 # Plantbase-Me 🌱
 
-Help save all the animals, one recipe at a time.
+Help save all the animals, one product at a time.
 
 ---
 
@@ -18,9 +18,13 @@ Help save all the animals, one recipe at a time.
 
 ## Project idea
 
-Our app idea lets a user search for a non-vegan dish that they might be craving, and shows them a good alternative. We hope that this will make it easier for people to make a few changes here and there. We may also include some information about why this will help the environment, but we want to avoid shaming or alienating anyone.
+## Summary
+Crowd sourced review app for plant-based products 
 
-The idea is to encourage more people to cut out some animal products, with a focus on the idea of more people making a few changes that they're comfortable with, rather than a few people doing everything they can and the rest feeling alienated and not feeling like they can make a difference. We hope to avoid the "all or nothing" mentality that leaves lots of people feeling like there's no point in making any effort; if lots of people make a few changes, it will add up.
+## Detail
+Our app idea lets our users search for a product category they are familiar with from the non-plant-based world. It then shows them a list of ranked plant-based alternatives with honest reviews, sorted by their number of crowdsourced upvotes.
+
+The idea is to encourage more people to cut out some animal products, with a focus on encouraging more people to make a few changes that they're comfortable with, rather than a few people doing everything they can and the rest feeling alienated. We want to help curious shoppers find the right product fit for their need and manage their expectations (e.g. this cheese alternative melts great on pizza).
 
 ---
 
